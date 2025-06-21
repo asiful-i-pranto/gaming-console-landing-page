@@ -52,7 +52,7 @@ Frontend & WordPress Developer
 ## ✍️ Designed By
 
 **Khan Navid Tousif**  
-Logo and Web Designer  
+Logo & Web Designer  
 [Behance](https://behance.net/kntousif) | [LinkedIn](https://linkedin.com/in/khan-navid-tousif-73aa0021a)
 
 ## 📃 License
