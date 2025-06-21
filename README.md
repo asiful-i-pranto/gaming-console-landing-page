@@ -6,7 +6,7 @@ This is a fully responsive and interactive Landing webpage firstly designed thro
 
 - 🔧 Built with **WordPress + Elementor Page Builder**
 - 🎨 Fully customized Design using **Figma**
-- 📱 Mobile responsive design
+- 📱 Desktop, Tablet & Mobile responsive design
 - 🌍 Live site: [Visit Webpage](https://gamingconsolelandingpage.asifulpranto.com)
 
 ## 📷 Screenshots
