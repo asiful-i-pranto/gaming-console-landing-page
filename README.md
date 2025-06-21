@@ -18,7 +18,7 @@ This is a fully responsive and interactive Landing webpage firstly designed thro
       <img src="screenshots/LandingPage - Desktop.png" alt="Page DesktopView Image" width="400">
     </td>
     <td align="center" valign="top">
-      <strong>💻 Tablet View</strong><br>
+      <strong>📱 Tablet View</strong><br>
       <img src="screenshots/LandingPage - Tablet.png" alt="Page TabletView Image" width="300">
     </td>
     <td align="center" valign="top">
